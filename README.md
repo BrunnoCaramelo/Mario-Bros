@@ -13,4 +13,4 @@ JAVASCRIP
 </strong>
 </li>
 <br>
-<img src="(https://github.com/BrunnoCaramelo/Mario-Bros/assets/162813949/316d44ef-1113-42af-88ff-095af286f468)" 
+<img src="https://github.com/BrunnoCaramelo/Mario-Bros/blob/main/assets/Mokup%20Mario%20copy.jpg?raw=true"/>
