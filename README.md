@@ -4,13 +4,17 @@
 <p>
   <strong>
     <li>
-HTML
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
       <br><li>
-CSS 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <br><li>
-JAVASCRIP
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 </strong>
 </li>
 <br>
 <img src="https://github.com/BrunnoCaramelo/Mario-Bros/blob/main/assets/Mokup%20Mario%20copy.jpg?raw=true"/>
+
+
+
+
